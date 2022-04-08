@@ -13,7 +13,7 @@ let multiply = num1 + num2;
 //     return Math.trunc(Math.random() * 10 + 1);
 // }
 
-random = Math.trunc(Math.random() + 1);
+let random = Math.trunc(Math.random() + 1);
 
 // console.log(random());
 
